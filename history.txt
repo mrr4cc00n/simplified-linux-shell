@@ -1,0 +1,1 @@
+ls > u.txt~cat Parser.c | grep exp | grep res~cat Parser.c | grep res~cat Parser.c | grep re | grep ex~cd /home/manuel/Desktop/~cd /home/manuel/Desktop/~cd /home/manuel/Desktop/~ls~ls | grep a~
